@@ -1,9 +1,15 @@
 # Change Log
 
-All notable changes to the "piggymaths" extension will be documented in this file.
+This is the changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.0]
 
-## [Unreleased]
+### Added
 
-- Initial release
+* 📖 `piggymaths` Language Mode
+* ✏️ Mathematical symbols
+* ✏️ Variables
+* ✏️ Numbers
+* ✏️ Block boxes
+* 🖼️ Language icon
+* 🖼️ Extension icon
