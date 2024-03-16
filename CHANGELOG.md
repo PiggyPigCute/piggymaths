@@ -6,6 +6,7 @@ This is the changelog
 
 ### Added
 
+* 📂 Structure de l'extension
 * 📖 `piggymaths` Language Mode
 * ✏️ Mathematical symbols
 * ✏️ Variables
