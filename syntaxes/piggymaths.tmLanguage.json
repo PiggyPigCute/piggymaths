@@ -59,7 +59,7 @@
 			"name": "variable.parameter.symbole.piggymaths"
 		},
 		"symbol-special": {
-			"match": "((U|Im|Ker)(?=[^a-z])|(?<![a-zA-Zéù«»])[\\-,']|T(?=[ᶿ⁺ˣᐟ])|:(?= .* → .*)|P̌|Ṕ|ᵢₑ)",
+			"match": "((U|Im|Ker|Vect)(?![a-z])|(?<![a-zA-Z])(dim|max|min|deg|rg)(?![a-z])|(?<![a-zA-Zéù«»])[\\-,']|T(?=[ᶿ⁺ˣᐟ])|:(?= .* → .*)|P̌|Ṕ|ᵢₑ)",
 			"name": "variable.parameter.symbol-special.piggymaths"
 		},
 		"var": {
