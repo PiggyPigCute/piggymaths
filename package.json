@@ -48,7 +48,7 @@
       }
     ]
   },
-  "icon": "icon.png",
+  "icon": "icons/pig.png",
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
